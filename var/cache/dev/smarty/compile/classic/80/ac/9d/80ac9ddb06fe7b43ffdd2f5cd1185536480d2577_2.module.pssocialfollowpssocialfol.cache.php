@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-10-21 12:10:14
+/* Smarty version 3.1.39, created on 2021-11-19 23:34:22
   from 'module:pssocialfollowpssocialfol' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_61714a9630edc3_16264992',
+  'unifunc' => 'content_6198266e449716_44351443',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '80ac9ddb06fe7b43ffdd2f5cd1185536480d2577' => 
     array (
       0 => 'module:pssocialfollowpssocialfol',
-      1 => 1634813142,
+      1 => 1637337249,
       2 => 'module',
     ),
   ),
@@ -20,24 +20,24 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_61714a9630edc3_16264992 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6198266e449716_44351443 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->compiled->nocache_hash = '128330831061714a9630b484_16835098';
+$_smarty_tpl->compiled->nocache_hash = '9683079436198266e445e35_38089930';
 ?>
-<!-- begin /var/www/html/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+<!-- begin /var/www/html2/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_93497792161714a9630c2a9_48709048', 'block_social');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_12961642066198266e446781_36016605', 'block_social');
 ?>
 
-<!-- end /var/www/html/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
+<!-- end /var/www/html2/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl --><?php }
 /* {block 'block_social'} */
-class Block_93497792161714a9630c2a9_48709048 extends Smarty_Internal_Block
+class Block_12961642066198266e446781_36016605 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'block_social' => 
   array (
-    0 => 'Block_93497792161714a9630c2a9_48709048',
+    0 => 'Block_12961642066198266e446781_36016605',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
