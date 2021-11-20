@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-10-21 12:10:14
+/* Smarty version 3.1.39, created on 2021-11-19 23:34:22
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_61714a9615e604_24559879',
+  'unifunc' => 'content_6198266e3c7cd2_27506396',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:pscustomersigninpscustome',
-      1 => 1634813142,
+      1 => 1637337249,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_61714a9615e604_24559879 (Smarty_Internal_Template $_smarty_tpl) {
-?><!-- begin /var/www/html/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
+function content_6198266e3c7cd2_27506396 (Smarty_Internal_Template $_smarty_tpl) {
+?><!-- begin /var/www/html2/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
   <div class="user-info">
     <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
       <a
@@ -61,5 +61,5 @@ function content_61714a9615e604_24559879 (Smarty_Internal_Template $_smarty_tpl)
     <?php }?>
   </div>
 </div>
-<!-- end /var/www/html/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><?php }
+<!-- end /var/www/html2/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><?php }
 }

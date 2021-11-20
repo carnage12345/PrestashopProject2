@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-10-21 12:10:14
+/* Smarty version 3.1.39, created on 2021-11-19 23:34:22
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_61714a96379892_43175804',
+  'unifunc' => 'content_6198266e491b52_31848355',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '42f9461127ce7396a601c2484841253ea5ba658f' => 
     array (
       0 => 'module:pscustomeraccountlinkspsc',
-      1 => 1634813142,
+      1 => 1637337249,
       2 => 'module',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_61714a96379892_43175804 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '153464512561714a96373f03_96489078';
+function content_6198266e491b52_31848355 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '7853354336198266e48ccc3_13773775';
 ?>
-<!-- begin /var/www/html/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- begin /var/www/html2/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
 <div id="block_myaccount_infos" class="col-md-3 links wrapper">
   <p class="h3 myaccount-title hidden-sm-down">
     <a class="text-uppercase" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['pages']['my_account'], ENT_QUOTES, 'UTF-8');?>
@@ -64,5 +64,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
 
 	</ul>
 </div>
-<!-- end /var/www/html/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
+<!-- end /var/www/html2/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl --><?php }
 }

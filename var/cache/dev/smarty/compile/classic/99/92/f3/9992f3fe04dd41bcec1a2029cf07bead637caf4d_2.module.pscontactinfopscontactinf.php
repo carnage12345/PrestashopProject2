@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-10-21 12:10:14
+/* Smarty version 3.1.39, created on 2021-11-19 23:34:22
   from 'module:pscontactinfopscontactinf' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_61714a9639bee7_58558208',
+  'unifunc' => 'content_6198266e4aa786_60053625',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9992f3fe04dd41bcec1a2029cf07bead637caf4d' => 
     array (
       0 => 'module:pscontactinfopscontactinf',
-      1 => 1634813142,
+      1 => 1637337249,
       2 => 'module',
     ),
   ),
@@ -20,10 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_61714a9639bee7_58558208 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/html/vendor/smarty/smarty/libs/plugins/function.mailto.php','function'=>'smarty_function_mailto',),));
+function content_6198266e4aa786_60053625 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/html2/vendor/smarty/smarty/libs/plugins/function.mailto.php','function'=>'smarty_function_mailto',),));
 ?>
-<!-- begin /var/www/html/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+<!-- begin /var/www/html2/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
 <div class="block-contact col-md-3 links wrapper">
   <div class="title clearfix hidden-md-up" data-target="#contact-infos" data-toggle="collapse">
     <span class="h3"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Store information','d'=>'Shop.Theme.Global'),$_smarty_tpl ) );?>
@@ -60,5 +60,5 @@ $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/html/vendor/smarty/
     <?php }?>
   </div>
 </div>
-<!-- end /var/www/html/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl --><?php }
+<!-- end /var/www/html2/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl --><?php }
 }
