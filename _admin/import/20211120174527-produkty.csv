@@ -1,0 +1,27 @@
+id,nazwa,zdjecie,stan,miasto,tryb,data,pakiet,platnosc,cena,opis,kategorie
+
+1,JavaScript Developer,https://sklep.coderslab.pl/img/p/1/1/9/119-large_default.jpg,,Kraków,Dzienny,10.01.2022 (KRA_FER_S_31),Podstawowy,Jednorazowa,10900zł Brutto,Kursy FRONT-END|Kursy ZDALNE|Black Friday 2021
+
+2,Tester Manualny,https://sklep.coderslab.pl/img/p/1/2/3/123-large_default.jpg,,Kraków,Dzienny,07.02.2022 (KRA_TEM_S_15),Podstawowy,Jednorazowa,5900zł Brutto,Kursy IT|Kursy ZDALNE|Black Friday 2021
+
+3,Python Developer,https://sklep.coderslab.pl/img/p/1/2/7/127-large_default.jpg,,Kraków,Dzienny,10.01.2022 (KRA_PYT_S_10),Podstawowy,Jednorazowa,10900zł Brutto,Kursy BACK-END|Black Friday 2021
+
+4,Node.js dla programistów,https://sklep.coderslab.pl/img/p/1/2/8/128-large_default.jpg,,Online,Wieczorowy,17.01.2022 (ONL_FSF_E_10),Podstawowy,Jednorazowa,4500zł Brutto,Kursy BACK-END|Kursy dla średnio zaawansowanych
+
+5,Tester Automatyzujący,https://sklep.coderslab.pl/img/p/1/2/4/124-large_default.jpg,,Online,Wieczorowy,31.01.2022 (ONL_TEA_E_10),Podstawowy,Jednorazowa,4500zł Brutto,Kursy IT|Kursy ZDALNE
+
+6,Java Developer,https://sklep.coderslab.pl/img/p/1/2/6/126-large_default.jpg,,Warszawa,Dzienny,17.01.2022 (WAR_JEE_S_29),Podstawowy,Jednorazowa,11900zł Brutto,Kursy BACK-END|Black Friday 2021
+
+7,Test Lab,https://sklep.coderslab.pl/img/p/1/3/9/139-large_default.jpg,,Online,Self-learning,,Podstawowy,Jednorazowa,249zł Brutto,Kursy dla średnio zaawansowanych
+
+
+
+9,Python - analiza danych,https://sklep.coderslab.pl/img/p/1/2/1/121-large_default.jpg,new,Online,Weekendowy,15.01.2022 (ONL_PAD_W_11),Podstawowy,Jednorazowa,4500zł Brutto,Kursy IT|Kursy ZDALNE|Kursy dla średnio zaawansowanych
+
+10,Docker - Wstęp do Konteneryzacji,https://sklep.coderslab.pl/img/p/1/3/2/132-large_default.jpg,,Online,Weekendowy,15.01.2022 (ONL_DOC_W_05),Podstawowy,Jednorazowa,1990zł Brutto,Kursy dla średnio zaawansowanych
+
+11,SQL – Analiza Danych,https://sklep.coderslab.pl/img/p/1/3/4/134-large_default.jpg,,Online,Weekendowy,15.01.2022 (ONL_SQL_W_06),Podstawowy,Jednorazowa,2200zł Brutto,Kursy IT|Kursy ZDALNE|Kursy dla średnio zaawansowanych
+
+12,Wizualizacja Danych,https://sklep.coderslab.pl/img/p/1/3/5/135-large_default.jpg,,Online,Weekendowy,19.02.2022 (ONL_WID_W_01),Podstawowy,Jednorazowa,2900zł Brutto,Kursy IT|Kursy ZDALNE|Kursy dla średnio zaawansowanych
+
+13,SCRUMstudy Scrum Developer Certified (SDC�),https://sklep.coderslab.pl/img/p/1/3/8/138-large_default.jpg,,Online,Weekendowy,20.11.2021 (ONL_SDC_W_01),Podstawowy,Jednorazowa,2100zł Brutto,Kursy IT|Kursy ZDALNE
